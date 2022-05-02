@@ -1,0 +1,152 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <bf:Instance rdf:about="http://id.loc.gov/resources/instances/1102998">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Print"/>
+    <bf:issuance>
+      <bf:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
+	<rdfs:label>monograph</rdfs:label>
+      </bf:Issuance>
+    </bf:issuance>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+	<bf:date rdf:datatype="http://id.loc.gov/datatypes/edtf">1991</bf:date>
+	<bf:place>
+	  <bf:Place rdf:about="http://id.loc.gov/vocabulary/countries/ii">
+	    <rdfs:label>India</rdfs:label>
+	  </bf:Place>
+	</bf:place>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bf:carrier>
+      <bf:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
+	<rdfs:label>volume</rdfs:label>
+      </bf:Carrier>
+    </bf:carrier>
+    <bf:media>
+      <bf:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+	<rdfs:label>unmediated</rdfs:label>
+      </bf:Media>
+    </bf:media>
+    <bf:identifiedBy>
+      <bf:Lccn>
+	<rdf:value>   92904985 </rdf:value>
+      </bf:Lccn>
+    </bf:identifiedBy>
+    <bf:acquisitionTerms>Rs40.00</bf:acquisitionTerms>
+    <bf:identifiedBy>
+      <bf:LcOverseasAcq>
+	<rdf:value>I-E-68900</rdf:value>
+      </bf:LcOverseasAcq>
+    </bf:identifiedBy>
+    <rdfs:label>The Bhagavad Gita</rdfs:label>
+    <bf:responsibilityStatement>Annie Besant ; with an essay on The Gita by A. Parthasarathy ; collated and edited by Santi L. Mukherjee, Hitendra Mitra</bf:responsibilityStatement>
+    <bf:title>
+      <bf:Title>
+	<rdfs:label>The Bhagavad Gita</rdfs:label>
+	<bf:mainTitle>The Bhagavad Gita</bf:mainTitle>
+      </bf:Title>
+    </bf:title>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+	<bf:place>
+	  <bf:Place>
+	    <rdfs:label>Calcutta</rdfs:label>
+	  </bf:Place>
+	</bf:place>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/entities/agents/119d6ce059a84cbf83227a350594e466">
+	    <rdfs:label>Orbit Publications</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/entities/providers/119d6ce059a84cbf83227a350594e466" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:agent>
+	  <bf:Agent>
+	    <rdfs:label>Sole distributors, Prima Publications</rdfs:label>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:date>1991</bf:date>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bf:provisionActivityStatement>Calcutta : Orbit Publications : Sole distributors, Prima Publications, 1991.</bf:provisionActivityStatement>
+    <bf:extent>
+      <bf:Extent>
+	<rdfs:label>xxi, 259 p.</rdfs:label>
+      </bf:Extent>
+    </bf:extent>
+    <bf:dimensions>22 cm.</bf:dimensions>
+    <bf:note>
+      <bf:Note>
+	<rdfs:label>English and Sanskrit.</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+    <bf:instanceOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1102998">
+	<bflc:aap>Besant, Annie, 1847-1933. Bhagavad Gita</bflc:aap>
+      </bf:Work>
+    </bf:instanceOf>
+    <bf:hasItem>
+      <bf:Item rdf:about="http://id.loc.gov/resources/items/1102998-050-13">
+	<bf:shelfMark xmlns:streams="info:lc/streams#">
+	  <bf:ShelfMarkLcc>
+	    <rdfs:label>BL1138.62.E5 1991d</rdfs:label>
+	    <bf:assigner>
+	      <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	    </bf:assigner>
+	  </bf:ShelfMarkLcc>
+	</bf:shelfMark>
+      </bf:Item>
+    </bf:hasItem>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:generationProcess>
+	  <bf:GenerationProcess>
+	    <rdfs:label>DLC marc2bibframe2 v1.7.0-SNAPSHOT</rdfs:label>
+	    <bf:generationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T23:12:47-04:00</bf:generationDate>
+	  </bf:GenerationProcess>
+	</bf:generationProcess>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>corrected or revised</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bflc:encodingLevel>
+	  <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/f">
+	    <rdfs:label>full</rdfs:label>
+	  </bflc:EncodingLevel>
+	</bflc:encodingLevel>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/aacr">
+	    <rdfs:label>aacr</rdfs:label>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:identifiedBy>
+	  <bf:Local>
+	    <rdf:value>1102998</rdf:value>
+	    <bf:assigner>
+	      <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+		<bf:code>DLC</bf:code>
+	      </bf:Agent>
+	    </bf:assigner>
+	  </bf:Local>
+	</bf:identifiedBy>
+	<bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-26T12:17:01</bf:changeDate>
+	<bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-09-25</bf:creationDate>
+	<lclocal:d906 xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/">=906     $a 7 $b cbc $c orignew $d 3 $e ncip $f 19 $g y-gencatlg</lclocal:d906>
+	<lclocal:d955 xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/">=955     $a cj04, 11-04-92, wd00; yf06/05 6-28-93; yf08 07-12-93;aa05 08-04-93</lclocal:d955>
+	<bf:assigner>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <bf:code>DLC</bf:code>
+	  </bf:Agent>
+	</bf:assigner>
+	<bf:descriptionModifier>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <bf:code>DLC</bf:code>
+	  </bf:Agent>
+	</bf:descriptionModifier>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+  </bf:Instance>
+</rdf:RDF>
