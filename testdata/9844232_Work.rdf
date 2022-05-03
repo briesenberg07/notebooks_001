@@ -1,0 +1,284 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <bf:Work rdf:about="http://id.loc.gov/resources/works/9844232">
+    <bflc:aap>Melville, Herman, 1819-1891. Moby Dick</bflc:aap>
+    <bflc:aap-normalized>melvilleherman18191891mobydick</bflc:aap-normalized>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Text"/>
+    <bf:content>
+      <bf:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/txt">
+	<rdfs:label>text</rdfs:label>
+      </bf:Content>
+    </bf:content>
+    <bf:language>
+      <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+	<rdfs:label>English</rdfs:label>
+      </bf:Language>
+    </bf:language>
+    <bf:illustrativeContent>
+      <bf:Illustration rdf:about="http://id.loc.gov/vocabulary/millus/ill">
+	<rdfs:label>illustrations</rdfs:label>
+      </bf:Illustration>
+    </bf:illustrativeContent>
+    <bf:genreForm>
+      <bf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026339">
+	<rdfs:label xmlns:streams="info:lc/streams#">fiction</rdfs:label>
+      </bf:GenreForm>
+    </bf:genreForm>
+    <bf:classification>
+      <bf:ClassificationLcc>
+	<bf:assigner>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	</bf:assigner>
+	<bf:classificationPortion>PZ3.M498</bf:classificationPortion>
+	<bf:itemPortion>Mo72</bf:itemPortion>
+      </bf:ClassificationLcc>
+    </bf:classification>
+    <bf:classification>
+      <bf:ClassificationLcc>
+	<bf:assigner>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	</bf:assigner>
+	<bf:classificationPortion>PS2384.M6</bf:classificationPortion>
+      </bf:ClassificationLcc>
+    </bf:classification>
+    <bf:contribution>
+      <bf:Contribution>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/PrimaryContribution"/>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79006936">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person" xmlns:streams="info:lc/streams#"/>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Melville, Herman, 1819-1891.</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/authorities/names/n79006936" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:role>
+	  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+	    <rdfs:label>Contributor</rdfs:label>
+	  </bf:Role>
+	</bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <rdfs:label>Moby Dick.</rdfs:label>
+    <bf:title>
+      <bf:Title>
+	<rdfs:label>Moby Dick.</rdfs:label>
+	<bf:mainTitle>Moby Dick.</bf:mainTitle>
+      </bf:Title>
+    </bf:title>
+    <bf:hasSeries>
+      <bf:Work>
+	<bflc:aap>The Macmillan classics</bflc:aap>
+	<bflc:aap-normalized>themacmillanclassics</bflc:aap-normalized>
+	<rdfs:label xmlns:streams="info:lc/streams#">The Macmillan classics</rdfs:label>
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">The Macmillan classics</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasSeries>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh2007100918">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Ahab, Captain (Fictitious character)--Fiction.</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Ahab, Captain (Fictitious character)--Fiction.</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<madsrdf:componentList rdf:parseType="Collection" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+	  <madsrdf:Topic>
+	    <madsrdf:authoritativeLabel>Ahab, Captain (Fictitious character)</madsrdf:authoritativeLabel>
+	  </madsrdf:Topic>
+	  <madsrdf:GenreForm>
+	    <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+	  </madsrdf:GenreForm>
+	</madsrdf:componentList>
+	<bflc:aap-normalized>ahabcaptain(fictitiouscharacter)fiction</bflc:aap-normalized>
+      </bf:Topic>
+    </bf:subject>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh2008113462">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Whaling ships--Fiction.</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Whaling ships--Fiction.</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<madsrdf:componentList rdf:parseType="Collection" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+	  <madsrdf:Topic>
+	    <madsrdf:authoritativeLabel>Whaling ships</madsrdf:authoritativeLabel>
+	  </madsrdf:Topic>
+	  <madsrdf:GenreForm>
+	    <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+	  </madsrdf:GenreForm>
+	</madsrdf:componentList>
+	<bflc:aap-normalized>whalingshipsfiction</bflc:aap-normalized>
+      </bf:Topic>
+    </bf:subject>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh2008111148">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Ship captains--Fiction.</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Ship captains--Fiction.</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<madsrdf:componentList rdf:parseType="Collection" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+	  <madsrdf:Topic>
+	    <madsrdf:authoritativeLabel>Ship captains</madsrdf:authoritativeLabel>
+	  </madsrdf:Topic>
+	  <madsrdf:GenreForm>
+	    <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+	  </madsrdf:GenreForm>
+	</madsrdf:componentList>
+	<bflc:aap-normalized>shipcaptainsfiction</bflc:aap-normalized>
+      </bf:Topic>
+    </bf:subject>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh2008107226">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Mentally ill--Fiction.</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Mentally ill--Fiction.</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<madsrdf:componentList rdf:parseType="Collection" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+	  <madsrdf:Topic>
+	    <madsrdf:authoritativeLabel>Mentally ill</madsrdf:authoritativeLabel>
+	  </madsrdf:Topic>
+	  <madsrdf:GenreForm>
+	    <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+	  </madsrdf:GenreForm>
+	</madsrdf:componentList>
+	<bflc:aap-normalized>mentallyillfiction</bflc:aap-normalized>
+      </bf:Topic>
+    </bf:subject>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh2008113463">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Whaling--Fiction.</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Whaling--Fiction.</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<madsrdf:componentList rdf:parseType="Collection" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+	  <madsrdf:Topic>
+	    <madsrdf:authoritativeLabel>Whaling</madsrdf:authoritativeLabel>
+	  </madsrdf:Topic>
+	  <madsrdf:GenreForm>
+	    <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+	  </madsrdf:GenreForm>
+	</madsrdf:componentList>
+	<bflc:aap-normalized>whalingfiction</bflc:aap-normalized>
+      </bf:Topic>
+    </bf:subject>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh2008113464">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Whales--Fiction.</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Whales--Fiction.</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<madsrdf:componentList rdf:parseType="Collection" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+	  <madsrdf:Topic>
+	    <madsrdf:authoritativeLabel>Whales</madsrdf:authoritativeLabel>
+	  </madsrdf:Topic>
+	  <madsrdf:GenreForm>
+	    <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+	  </madsrdf:GenreForm>
+	</madsrdf:componentList>
+	<bflc:aap-normalized>whalesfiction</bflc:aap-normalized>
+      </bf:Topic>
+    </bf:subject>
+    <bf:genreForm>
+      <bf:GenreForm rdf:about="http://id.loc.gov/authorities/subjects/sh85108438">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic" xmlns:streams="info:lc/streams#"/>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Psychological fiction.</madsrdf:authoritativeLabel>
+	<bf:source xmlns:streams="info:lc/streams#">
+	  <bf:Source rdf:about="http://id.loc.gov/vocabulary/genreFormSchemes/lcsh">
+	    <bf:code>lcsh</bf:code>
+	  </bf:Source>
+	</bf:source>
+	<rdfs:label xmlns:streams="info:lc/streams#">Psychological fiction.</rdfs:label>
+      </bf:GenreForm>
+    </bf:genreForm>
+    <bf:genreForm>
+      <bf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic" xmlns:streams="info:lc/streams#"/>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Adventure stories.</madsrdf:authoritativeLabel>
+	<bf:source xmlns:streams="info:lc/streams#">
+	  <bf:Source rdf:about="http://id.loc.gov/vocabulary/genreFormSchemes/gsafd">
+	    <bf:code>gsafd</bf:code>
+	  </bf:Source>
+	</bf:source>
+	<rdfs:label xmlns:streams="info:lc/streams#">Adventure stories.</rdfs:label>
+      </bf:GenreForm>
+    </bf:genreForm>
+    <bf:genreForm>
+      <bf:GenreForm rdf:about="http://id.loc.gov/authorities/subjects/sh85119251">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic" xmlns:streams="info:lc/streams#"/>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Sea stories.</madsrdf:authoritativeLabel>
+	<bf:source xmlns:streams="info:lc/streams#">
+	  <bf:Source rdf:about="http://id.loc.gov/vocabulary/genreFormSchemes/lcsh">
+	    <bf:code>lcsh</bf:code>
+	  </bf:Source>
+	</bf:source>
+	<rdfs:label xmlns:streams="info:lc/streams#">Sea stories.</rdfs:label>
+      </bf:GenreForm>
+    </bf:genreForm>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/works"/>
+    <bf:hasInstance>
+      <bf:Instance rdf:about="http://id.loc.gov/resources/instances/9844232">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick.</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+	<bf:provisionActivityStatement xmlns:streams="info:lc/streams#">New York, Macmillan, 1962.</bf:provisionActivityStatement>
+      </bf:Instance>
+    </bf:hasInstance>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:generationProcess>
+	  <bf:GenerationProcess>
+	    <rdfs:label>DLC marc2bibframe2 v1.7.0-SNAPSHOT</rdfs:label>
+	    <bf:generationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T19:50:55-04:00</bf:generationDate>
+	  </bf:GenerationProcess>
+	</bf:generationProcess>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>corrected or revised</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bflc:encodingLevel>
+	  <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/1">
+	    <rdfs:label>full not examined</rdfs:label>
+	  </bflc:EncodingLevel>
+	</bflc:encodingLevel>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/local">
+	    <rdfs:label>local</rdfs:label>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:identifiedBy>
+	  <bf:Local>
+	    <rdf:value>9844232</rdf:value>
+	    <bf:assigner>
+	      <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+		<bf:code>DLC</bf:code>
+	      </bf:Agent>
+	    </bf:assigner>
+	  </bf:Local>
+	</bf:identifiedBy>
+	<bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-11-15T17:31:27</bf:changeDate>
+	<bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-05-13</bf:creationDate>
+	<lclocal:d906 xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/">=906     $a 7 $b cbc $c oclcrpl $d u $e ncip $f 19 $g y-gencatlg</lclocal:d906>
+	<bf:assigner>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <bf:code>DLC</bf:code>
+	  </bf:Agent>
+	</bf:assigner>
+	<bf:descriptionModifier>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <bf:code>DLC</bf:code>
+	  </bf:Agent>
+	</bf:descriptionModifier>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:expressionOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/548884da-f5d9-240a-8ed2-c453e1183e01">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:expressionOf>
+  </bf:Work>
+</rdf:RDF>

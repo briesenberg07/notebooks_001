@@ -1,0 +1,150 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <bf:Instance rdf:about="http://id.loc.gov/resources/instances/9844232">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Print"/>
+    <bf:issuance>
+      <bf:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
+	<rdfs:label>monograph</rdfs:label>
+      </bf:Issuance>
+    </bf:issuance>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+	<bf:date rdf:datatype="http://id.loc.gov/datatypes/edtf">1962</bf:date>
+	<bf:place>
+	  <bf:Place rdf:about="http://id.loc.gov/vocabulary/countries/nyu">
+	    <rdfs:label>New York (State)</rdfs:label>
+	  </bf:Place>
+	</bf:place>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bf:carrier>
+      <bf:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
+	<rdfs:label>volume</rdfs:label>
+      </bf:Carrier>
+    </bf:carrier>
+    <bf:media>
+      <bf:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+	<rdfs:label>unmediated</rdfs:label>
+      </bf:Media>
+    </bf:media>
+    <bf:identifiedBy>
+      <bf:Lccn>
+	<rdf:value>   62018393 </rdf:value>
+      </bf:Lccn>
+    </bf:identifiedBy>
+    <bf:identifiedBy>
+      <bf:Local>
+	<rdf:value>1330478</rdf:value>
+	<bf:assigner>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/ocolc"/>
+	</bf:assigner>
+      </bf:Local>
+    </bf:identifiedBy>
+    <rdfs:label>Moby Dick.</rdfs:label>
+    <bf:responsibilityStatement>Illustrated by Robert Shore. Afterword by Clifton Fadiman</bf:responsibilityStatement>
+    <bf:title>
+      <bf:Title>
+	<rdfs:label>Moby Dick.</rdfs:label>
+	<bf:mainTitle>Moby Dick</bf:mainTitle>
+      </bf:Title>
+    </bf:title>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+	<bf:place>
+	  <bf:Place>
+	    <rdfs:label>New York</rdfs:label>
+	  </bf:Place>
+	</bf:place>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/entities/agents/74e655581a038ce4b7b8a939b17f7cce">
+	    <rdfs:label>Macmillan</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/entities/providers/74e655581a038ce4b7b8a939b17f7cce" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:date>1962</bf:date>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bf:provisionActivityStatement>New York, Macmillan, 1962.</bf:provisionActivityStatement>
+    <bf:extent>
+      <bf:Extent>
+	<rdfs:label>621 p.</rdfs:label>
+      </bf:Extent>
+    </bf:extent>
+    <bf:note>
+      <bf:Note>
+	<rdf:type rdfs:resource="http://id.loc.gov/vocabulary/mnotetype/physical"/>
+	<rdfs:label>illus.</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <bf:dimensions>24 cm.</bf:dimensions>
+    <bf:seriesStatement>The Macmillan classics, 30</bf:seriesStatement>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+    <bf:instanceOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9844232">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:instanceOf>
+    <bf:hasItem>
+      <bf:Item rdf:about="http://id.loc.gov/resources/items/9844232-050-10">
+	<bf:shelfMark xmlns:streams="info:lc/streams#">
+	  <bf:ShelfMarkLcc>
+	    <rdfs:label>PZ3.M498 Mo72</rdfs:label>
+	    <bf:assigner>
+	      <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	    </bf:assigner>
+	  </bf:ShelfMarkLcc>
+	</bf:shelfMark>
+      </bf:Item>
+    </bf:hasItem>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:generationProcess>
+	  <bf:GenerationProcess>
+	    <rdfs:label>DLC marc2bibframe2 v1.7.0-SNAPSHOT</rdfs:label>
+	    <bf:generationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-04T19:50:55-04:00</bf:generationDate>
+	  </bf:GenerationProcess>
+	</bf:generationProcess>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>corrected or revised</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bflc:encodingLevel>
+	  <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/1">
+	    <rdfs:label>full not examined</rdfs:label>
+	  </bflc:EncodingLevel>
+	</bflc:encodingLevel>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/local">
+	    <rdfs:label>local</rdfs:label>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:identifiedBy>
+	  <bf:Local>
+	    <rdf:value>9844232</rdf:value>
+	    <bf:assigner>
+	      <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+		<bf:code>DLC</bf:code>
+	      </bf:Agent>
+	    </bf:assigner>
+	  </bf:Local>
+	</bf:identifiedBy>
+	<bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-11-15T17:31:27</bf:changeDate>
+	<bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-05-13</bf:creationDate>
+	<lclocal:d906 xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/">=906     $a 7 $b cbc $c oclcrpl $d u $e ncip $f 19 $g y-gencatlg</lclocal:d906>
+	<bf:assigner>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <bf:code>DLC</bf:code>
+	  </bf:Agent>
+	</bf:assigner>
+	<bf:descriptionModifier>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <bf:code>DLC</bf:code>
+	  </bf:Agent>
+	</bf:descriptionModifier>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+  </bf:Instance>
+</rdf:RDF>

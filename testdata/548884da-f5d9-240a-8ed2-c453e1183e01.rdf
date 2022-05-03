@@ -1,0 +1,1728 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <bf:Work rdf:about="http://id.loc.gov/resources/hubs/548884da-f5d9-240a-8ed2-c453e1183e01">
+    <bflc:aap>Melville, Herman, 1819-1891 Moby Dick</bflc:aap>
+    <bflc:aap-normalized>melvilleherman18191891mobydick</bflc:aap-normalized>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Hub"/>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/hubs"/>
+    <bf:contribution>
+      <bf:Contribution>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/PrimaryContribution"/>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79006936">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+	    <rdfs:label>Melville, Herman, 1819-1891</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/authorities/names/n79006936" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:role>
+	  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+	    <rdfs:label>Contributor</rdfs:label>
+	  </bf:Role>
+	</bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:title>
+      <bf:Title>
+	<bf:mainTitle>Moby Dick</bf:mainTitle>
+      </bf:Title>
+    </bf:title>
+    <bf:title>
+      <bf:VariantTitle>
+	<bf:mainTitle>Whale</bf:mainTitle>
+      </bf:VariantTitle>
+    </bf:title>
+    <bf:title>
+      <bf:VariantTitle>
+	<bf:mainTitle>Moby Dick, or, The whale</bf:mainTitle>
+      </bf:VariantTitle>
+    </bf:title>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1989-02-22T00:00:00</bf:creationDate>
+	<bf:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-23T15:55:56</bf:changeDate>
+	<bf:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+	<bf:derivedFrom rdf:resource="http://id.loc.gov/authorities/names/n88282472"/>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/12134ce5-d98c-9481-007d-db1d25bef9e8">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Romanian</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/17fe3f2c-fe76-46dc-545b-ce8eb8a16d44">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Spanish (Barba)</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/18e9bbc9-4497-0215-ab08-7f56f72aaa06">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Persian</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/1cbe69ff-0715-72b8-d88e-357df8b805f0">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Korean</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/216a0e0c-b9ff-16d7-a170-2ed0a4fabe0e">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. French</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/5352f78b-b66c-777f-4bfc-50aaef5061fc">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Russian</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/5e80781a-8539-d257-fc32-283e8eae8705">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Lithuanian</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/5f882d67-dce0-fa51-185c-294dbe16b99b">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Macedonian</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/644a80e7-dc48-ae4b-437e-7e30ceb958ab">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Chinese</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/8310f44d-a234-dc97-a815-68f045af169d">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Czech</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/8c50bd1b-f66a-e5ab-bbe9-d983455ead98">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Arabic</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/8e44b5f1-3a70-5080-1bb2-52bf78839e68">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Spanish</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/8f602566-63a7-e567-bf47-7d01d54276c1">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Hebrew</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/9042aebe-4433-4252-fc52-ae3739dcf8fb">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Spanish (FonoLibro Inc.)</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/adbedad8-a76a-d43c-3081-1bdec333e49d">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Urdu</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:translation>
+      <bf:Work rdf:about="http://id.loc.gov/resources/hubs/f3fd7350-2a28-0614-cf9a-3da207cb1318">
+	<bflc:aap>Melville, Herman, 1819-1891 Moby Dick. Japanese</bflc:aap>
+      </bf:Work>
+    </bf:translation>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/11878276">
+	<bflc:aap>Baird, Alison, 1963- White as the waves : a novel of Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1200557">
+	<bflc:aap>Steele, Alexander. Moby Dog</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12037843">
+	<bflc:aap>Tallman, Robert, 1915- sea has a story. #1, Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12043910">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12055185">
+	<bflc:aap>Herrmann, Bernard, 1911-1975. Moby Dick cantata</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12063969">
+	<bflc:aap>Kaye, Hereward. Moby Dick [the legend lives]</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12075270">
+	<bflc:aap>Dallapiccola, Luigi, 1904-1975. prigioniero</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1213129">
+	<bflc:aap>Naslund, Sena Jeter. Ahab's wife, or, The star-gazer : a novel</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1220186">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick; or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1220896">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick; or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12398045">
+	<bflc:aap>Eisner, Will. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12461152">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12527449">
+	<bflc:aap>Duffield, Brainerd. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12979877">
+	<bflc:aap>Schwartz, Lew Sayre. Moby Dick : based on the novel by Herman Melville</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13064896">
+	<bflc:aap>Carlson, Donna. Moby Dick : with a discussion of determination</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13180368">
+	<bflc:aap>Steiger, Rod, 1925-2002. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13278397">
+	<bflc:aap>Naslund, Sena Jeter. Ahab's wife</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13337906">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13867061">
+	<bflc:aap>Urbon, Steve. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14153082">
+	<bflc:aap>Furse, Sophie. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14458321">
+	<bflc:aap>Needle, Jan. Moby-Dick, or, the whale</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14521790">
+	<bflc:aap>Rosenwinkel, Mark. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14640398">
+	<bflc:aap>Reit, Seymour. Travel &amp; adventure</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14770742">
+	<bflc:aap>Ita, Sam. Moby-Dick : a pop-up book</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14785645">
+	<bflc:aap>Espinosa, Rod. Herman Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15269997">
+	<bflc:aap>Campbell, Robert, 1924-1988. Ahab</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1536276">
+	<bflc:aap>Sienkiewicz, Bill. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15594180">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15623741">
+	<bflc:aap>Olmstead, Kathleen. Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15904649">
+	<bflc:aap>Fields, Jan. Herman Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15918453">
+	<bflc:aap>MacArthur, Dugald. Moby Dick--rehearsed</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15951537">
+	<bflc:aap>Gentilucci, Armando. In acque solitarie : (una glossa a margine di "Moby Dick") : per flauto solo, 1986</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15965832">
+	<bflc:aap>Hanson, Philip. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15965889">
+	<bflc:aap>Brady, Leo, 1917- Moby Dick rehearsed</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:partOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16092806">
+	<bflc:aap>Melville, Herman, 1819-1891. Seven novels : complete and unabridged</bflc:aap>
+      </bf:Work>
+    </bf:partOf>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16188809">
+	<bflc:aap>Stahlberg, Lance. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16543171">
+	<bflc:aap>Huston, John, 1906-1987. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16831581">
+	<bflc:aap>Stahlberg, Lance. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16880753">
+	<bflc:aap>Heggie, Jake, 1961- Moby-Dick : an opera in two acts : (9/18/2010)</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17298860">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1743243">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick : or, The whale : a novel</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17432885">
+	<bflc:aap>Adams, Jennifer, 1970- Moby-Dick : an ocean primer</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1747424">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick: or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17519290">
+	<bflc:aap>Wallace, Robert K., 1944- Heggie and Scheer's Moby-Dick : a grand opera for the 21st century</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17535922">
+	<bflc:aap>Kimmel, Eric A. Moby Dick : chasing the great white whale</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17625698">
+	<bflc:aap>Melville, Herman, 1819-1891. Emoji Dick, or, The Whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17907436">
+	<bflc:aap>Hartman, Karen. Wild Kate : a tale of revenge at sea : a play</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18115997">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The Whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:partOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18143843">
+	<bflc:aap>Kaye, Hereward. Moby Dick the legend lives</bflc:aap>
+      </bf:Work>
+    </bf:partOf>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18156417">
+	<bflc:aap>Kaye, Hereward. selection from the forthcoming cast album of Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18184410">
+	<bflc:aap>Morton, Sasha, Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18197636">
+	<bflc:aap>Herrmann, Bernard, 1911-1975. Moby Dick Sinfonietta</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18239849">
+	<bflc:aap>Furse, Sophie. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18300030">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick : or, the whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18539345">
+	<bflc:aap>Strasser, Todd, beast of Cretacea</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18876922">
+	<bflc:aap>Wang, Jack, 1972- Herman Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:partOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/19249209">
+	<bflc:aap>Chabouté, 1967- Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:partOf>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1938668">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/19463204">
+	<bflc:aap>Archer, Mandy, Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/19468578">
+	<bflc:aap>Latimer, Ryan, 1990- Moby Dick : for large ensemble : 2014</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/19857220">
+	<bflc:aap>Rodriguez, David, Moby Dick : a graphic novel</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20411561">
+	<bflc:aap>Ness, Patrick, 1971- And the ocean was our sky</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20452154">
+	<bflc:aap>Jory, Jon, Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2055373">
+	<bflc:aap>Eisner, Will. white whale : an introduction to Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20811508">
+	<bflc:aap>Lo Monaco, Gérard, Moby-Dick : a pop-up book from the novel by Herman Melville</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20855360">
+	<bflc:aap>Artibani, Francesco, Moby Dick : starring Donald Duck</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20937937">
+	<bflc:aap>After Moby-Dick : an anthology of new poetry</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20972855">
+	<bflc:aap>Nodel, Norman Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21229543">
+	<bflc:aap>Perera, Ronald, white whale</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2128398">
+	<bflc:aap>Steele, Alexander. Moby Dog</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21314489">
+	<bflc:aap>Melville, Herman, 1819-1891, Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2140754">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2163583">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2173948">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick; or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21857419">
+	<bflc:aap>Melville, Herman, 1819-1891, Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2370438">
+	<bflc:aap>Fink, Joanne, 1954- Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2471895">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2472638">
+	<bflc:aap>Jones, S. D. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2805262">
+	<bflc:aap>Irey, Eugene F. concordance to Herman Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3110905">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick; or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3183348">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick : or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3184589">
+	<bflc:aap>Bradbury, Ray, 1920-2012. That ghost, that bride of time : excerpts from a play-in-progress based on the Moby Dick mythology and dedicated to Herman Melville</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3260984">
+	<bflc:aap>Daniels, Patricia, 1955- Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3720145">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick : or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3734376">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The Whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/378741">
+	<bflc:aap>Irey, Eugene F. Moby-Dick index concordance</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3808913">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4067605">
+	<bflc:aap>Spruance, Benton, 1904-1967. Moby Dick. The passion of Ahab; twenty-six lithographs</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4092553">
+	<bflc:aap>Melville, Herman, 1819-1891. Cetology; a systematized exhibition of the whale in his broad genera: natural history excerpts from "Moby Dick."</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4297330">
+	<bflc:aap>Frank, Stuart M. Herman Melville's picture gallery</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4318918">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4381088">
+	<bflc:aap>Williams, Guy R. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4533526">
+	<bflc:aap>Smith, Nelson J. Pennant key-indexed study guide to Melville's Moby-Dick,</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4580372">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick : or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4627529">
+	<bflc:aap>Cohen, Hennig. concordance to Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4680420">
+	<bflc:aap>Cameron, Sharon. corporeal self : allegories of the body in Melville and Hawthorne</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4929188">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4933284">
+	<bflc:aap>Colp, Norman. great American anti-novel</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4944683">
+	<bflc:aap>Drummond, Allan. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4961501">
+	<bflc:aap>McCaughrean, Geraldine. Moby Dick, or, The white whale</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/532933">
+	<bflc:aap>Selden, Bernice. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5582270">
+	<bflc:aap>Reynolds, Roger, 1934- serpent-snapping eye : trumpet, percussion, piano, and 4-channel computer-synthesized sound</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5616262">
+	<bflc:aap>Perera, Ronald. white whale : theater music for baritone and orchestra</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5659438">
+	<bflc:aap>Ghedini, Giorgio Federico, 1892-1965. Concerto dell'albatro</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5766719">
+	<bflc:aap>Pardington, Edward Davies. Dublin Gate Theatre presenting Edward Davies Pardington's adaptation of Herman Melville's Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6675926">
+	<bflc:aap>Duffield, Brainerd. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/674812">
+	<bflc:aap>Napoli, Tony. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/747788">
+	<bflc:aap>Reed, Henry, 1914-1986. Moby Dick; a play for radio from Herman Melville's novel</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7480680">
+	<bflc:aap>Duffield, Brainerd. Moby Dick</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8573354">
+	<bflc:aap>[Moby Dick]</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/930576">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick : or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9316019">
+	<bflc:aap>Ghedini, Giorgio Federico, 1892-1965. Concerto dell'albatro,</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:relatedTo>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9406101">
+	<bflc:aap>Welles, Orson, 1915-1985. Moby Dick--rehearsed : a drama in two acts</bflc:aap>
+      </bf:Work>
+    </bf:relatedTo>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9617375">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick : or, The whale</bflc:aap>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12693190">
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14023284">
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7398844">
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9687106">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick:</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick:</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4422275">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9844232">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick.</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick.</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8742514">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9192927">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5793307">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13590638">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/10062753">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick:</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick:</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12593294">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/19437754">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6429473">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12435497">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8362967">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2625697">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7915688">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick.</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick.</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13057785">
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3109188">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18824554">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12439304">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/10154090">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6112142">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2912842">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21857419">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label>Moby Dick</rdfs:label>
+	    <bf:mainTitle>Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7890551">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/10277287">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick.</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick.</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8381804">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick,</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick,</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17827185">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6478797">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3840813">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16315256">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5965754">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick:</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick:</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6984576">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick.</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick.</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14385518">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6862469">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick,</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick,</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8457482">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick,</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick,</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15520287">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1072790">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13152069">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7399179">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8272098">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick,</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick,</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6013229">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9194454">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/11924502">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby-Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7339124">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick,</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick,</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13954646">
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>Moby-Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7453160">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick.</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick.</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/10139277">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick;</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick;</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14383069">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9786222">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick:</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick:</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bf:hasExpression>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/9693428">
+	<bf:title>
+	  <bf:Title>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Moby Dick</rdfs:label>
+	    <bf:mainTitle xmlns:streams="info:lc/streams#">Moby Dick</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+      </bf:Work>
+    </bf:hasExpression>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7524900">
+	<bflc:aap>Abel, Darrel. Barron's simplified approach to Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20937937">
+	<bflc:aap>After Moby-Dick : an anthology of new poetry</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/22314445">
+	<bflc:aap>Ahab unbound</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1965017">
+	<bflc:aap>Ahearn, Edward J. Marx and modern fiction</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3191277">
+	<bflc:aap>Albertini, Virgil. Moby-Dick criticism : a survey</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17201368">
+	<bflc:aap>Araújo, Homero. Machado de Assis e arredores : Quincas Borba, Moby Dick e outras ideias fixas : ensaios</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4395126">
+	<bflc:aap>Arnold, David Scott, 1949- Liminal readings : forms of otherness in Melville, Joyce, and Murdoch</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3907834">
+	<bflc:aap>Badaracco, Claire. American culture and the marketplace : R.R. Donnelley's four American books campaign, 1926-1930</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4404708">
+	<bflc:aap>Batista, Adelaide Monteiro. Moby-Dick : a ilha e o mar, metáforas do carácter do povo americano</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15346131">
+	<bflc:aap>Beachy-Quick, Dan, 1973- whaler's dictionary</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/300424">
+	<bflc:aap>Bennett, John Frederic. Knights and squires : more poems on Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7628650">
+	<bflc:aap>Bennett, John Frederic. struck leviathan; [Sound recording] poetry readings by John Bennett</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4749994">
+	<bflc:aap>Bickman, Martin, 1945- Approaches to teaching Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12084569">
+	<bflc:aap>Birk, John F. Tracing the round : the astrological framework of Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17998356">
+	<bflc:aap>Block, Herbert, 1909-2001, "Cap'n, you keep chasing after that great white whale, we're all gonna end up in trouble"</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3889661">
+	<bflc:aap>Bloom, Harold. Ahab</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4926939">
+	<bflc:aap>Bloom, Harold. Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4296145">
+	<bflc:aap>Bloom, Harold. Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14557649">
+	<bflc:aap>Bloom, Harold. Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7964445">
+	<bflc:aap>Borton, John. Herman Melville; the philosophical implications of literary technique in Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4438987">
+	<bflc:aap>Briasco, Luca. ricerca di Ishmael : Moby-Dick come avventura dell'interpretazione</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/515967">
+	<bflc:aap>Brodhead, Richard H., 1947- New essays on Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8928814">
+	<bflc:aap>Brodtkorb, Paul. Ishmael's white world; a phenomenological reading of Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14509455">
+	<bflc:aap>Bulson, Eric. Novels, maps, modernity : the spatial imagination, 1850-2000</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4680420">
+	<bflc:aap>Cameron, Sharon. corporeal self : allegories of the body in Melville and Hawthorne</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1068633">
+	<bflc:aap>Cameron, Sharon. corporeal self : allegories of the body in Melville and Hawthorne</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3354110">
+	<bflc:aap>Cook, Jack. face of falsehood : the key to Moby-Dick and Mosses from an old manse</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/22348512">
+	<bflc:aap>Cook, Jonathan A. (Jonathan Alexander), 1953- Inscrutable malice</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17300517">
+	<bflc:aap>Cook, Jonathan A. (Jonathan Alexander), 1953- Inscrutable malice : theodicy, eschatology, and the biblical sources of Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2243592">
+	<bflc:aap>Costa, Dalila L. Pereira da. Duas epopeias das Américas, Moby Dick e Grande sertão, veredas : ou, O problema do mal</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17065103">
+	<bflc:aap>Cotkin, George, 1950- Dive deeper : journeys with Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1371449">
+	<bflc:aap>Cowan, Bainard. Exiled waters : Moby-Dick and the crisis of allegory</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14433155">
+	<bflc:aap>Davey, Michael J., 1967- Herman Melville's Moby-Dick : a sourcebook</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2070973">
+	<bflc:aap>Davis, Clark. After the whale : Melville in the wake of Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17624863">
+	<bflc:aap>Dayan, Yehonatan Aḳṿah-poʼeṭiḳah אקווה־פואטיקה</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/11960683">
+	<bflc:aap>Derail, Agnès Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/16140888">
+	<bflc:aap>Dowling, David Oakey, 1967- Chasing the white whale : the Moby-Dick marathon ; or, what Melville means today</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13745898">
+	<bflc:aap>Drewermann, Eugen. Moby Dick, oder, Vom Ungeheuren, ein Mensch zu sein : Melvilles Roman tiefenpsychologisch gedeutet</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3208970">
+	<bflc:aap>Edinger, Edward F. Melville's Moby-Dick : a Jungian commentary : an American Nekyia</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4011720">
+	<bflc:aap>Edinger, Edward F. Melville's Moby-Dick : an American nekyia</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13151294">
+	<bflc:aap>Evans, Kim Leilani. Whale!</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13327384">
+	<bflc:aap>Evans, Luther Harris, 1902-1981. Library of Congress intermission broadcasts. 1953-03-13, no. 22, Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18245735">
+	<bflc:aap>Evans, Robert C., 1955- Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/13275792">
+	<bflc:aap>Faiella, Graham. Moby Dick and the whaling industry of the 19th century</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4260028">
+	<bflc:aap>Fish, Peter. Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7943938">
+	<bflc:aap>Friedrich, Gerhard, 1916- In Pursuit of Moby Dick; Melville's image of man</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3037173">
+	<bflc:aap>Gapp, Frank W., 1911- Commodore and the whale : the lost victories of Thomas ap Catesby Jones</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2249719">
+	<bflc:aap>Gardner, John Fentress Melville's vision of America</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3180675">
+	<bflc:aap>Gilmore, Michael T. Twentieth century interpretations of Moby-Dick : a collection of critical essays</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15708504">
+	<bflc:aap>Glasser, William A. (William Arnold), 1932- art of literary thieving : The Catcher in the Rye, Moby-Dick, and Hamlet</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1222830">
+	<bflc:aap>Gleim, William S. meaning of Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6433902">
+	<bflc:aap>Gleim, William S. meaning of Moby Dick,</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7502789">
+	<bflc:aap>Gottschalk, Hans Walter. Herman Melville's Moby Dick, a study guide</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1090847">
+	<bflc:aap>Gretchko, John M. J. Melvillean loomings : essays on Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1698960">
+	<bflc:aap>Guetti, James L. limits of metaphor; a study of Melville, Conrad, and Faulkner,</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4801165">
+	<bflc:aap>Hamilton, William, 1924-2012. Reading Moby-Dick and other essays</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3486278">
+	<bflc:aap>Hayes, Kevin J. critical response to Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4599900">
+	<bflc:aap>Herbert, T. Walter (Thomas Walter), 1938- Moby-Dick and Calvinism : a world dismantled</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/15708590">
+	<bflc:aap>Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21931254">
+	<bflc:aap>Herman, Daniel, 1980- Zen and the White Whale : a Buddhist Rendering of Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/18063650">
+	<bflc:aap>Herman, Daniel, 1980- Zen and the White Whale : a Buddhist Rendering of Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1559627">
+	<bflc:aap>Higgins, Brian, 1943- Critical essays on Herman Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2637555">
+	<bflc:aap>Hillway, Tyrus, Moby-Dick centennial essays</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17835048">
+	<bflc:aap>Hocking, Justin, great floodgates of the wonderworld : a memoir</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/10418918">
+	<bflc:aap>Hollander, Arie Nicolaas Jan den. verbeeldingswereld van Edgar Allan Poe en enkele tijdgenoten. Bijdrage tot Amerika's ideeëngeschiedenis</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21740527">
+	<bflc:aap>Huxley, Craig, Whales of Atlantis : in search of Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14055931">
+	<bflc:aap>Jacobson, Karen F. Obsessive-compulsive disorder in Moby-Dick, l'Assommoir, and Buddenbrooks : interpreting novels through psychological categories</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20474620">
+	<bflc:aap>James, C. L. R. (Cyril Lionel Robert), 1901-1989 Mariners, renegades, and castaways</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12320048">
+	<bflc:aap>James, C. L. R. (Cyril Lionel Robert), 1901-1989. Mariners, renegades, and castaways : the story of Herman Melville and the world we live in</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4265375">
+	<bflc:aap>James, C. L. R. (Cyril Lionel Robert), 1901-1989. Mariners, renegades, and castaways : the story of Herman Melville and the world we live in</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17548757">
+	<bflc:aap>Jenkins, Henry, 1958- Reading in a participatory culture : remixing Moby-Dick in the English classroom</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21007463">
+	<bflc:aap>King, Richard J., Ahab's rolling sea : a natural history of Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1740876">
+	<bflc:aap>Lauenstein, Diether. Geheimnis des Wals: Melvilles Moby Dick u.d. Alte Testament</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2977456">
+	<bflc:aap>Markels, Julian. Melville and the politics of identity : from King Lear to Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/20993939">
+	<bflc:aap>Martinez Benedí, Pilar, insuperability of sensation : indagini letterarie tra mente, corpo e affect</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12268463">
+	<bflc:aap>Martino, Mirella. linea d'acqua : Moby-Dick e le retoriche del narciso americano</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1932239">
+	<bflc:aap>McSweeney, Kerry, 1941- Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/19713775">
+	<bflc:aap>Melville, Herman, 1819-1891, Moby-Dick : an authoritative text, contexts, criticism</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3495506">
+	<bflc:aap>Melville, Herman, 1819-1891. Father Mapple, his sermon : a selection from Herman Melville's Moby Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/4929188">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12439304">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14385518">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/1697035">
+	<bflc:aap>Melville, Herman, 1819-1891. Moby-Dick: An authoritative text</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17961408">
+	<bflc:aap>Mobi Diḳ מובי דיק</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/21604405">
+	<bflc:aap>Morrisey, Will Herman Melville's ship of state</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7534439">
+	<bflc:aap>Myers, Franklin G. Herman Melville : Moby Dick,</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/2281218">
+	<bflc:aap>Nechas, James William. Synonomy, repetition, and restatement in the vocabulary of Herman Melville's Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12981041">
+	<bflc:aap>Obstfeld, Raymond, 1952- Readings on Moby-Dick</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/8814914">
+	<bflc:aap>Olson, Charles, 1910-1970 Call me Ishmael</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/708188">
+	<bflc:aap>Olson, Charles, 1910-1970. Call me Ishmael</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/6069984">
+	<bflc:aap>Olson, Charles, 1910-1970. Call me Ishmael</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/3329733">
+	<bflc:aap>Olson, Charles, 1910-1970. Call me Ishmael</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/14801199">
+	<bflc:aap>Pardes, Ilana, 1966- Melville's Bibles</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/22429092">
+	<bflc:aap>Pardes, Ilana, 1966- Melville's Bibles</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/5766719">
+	<bflc:aap>Pardington, Edward Davies. Dublin Gate Theatre presenting Edward Davies Pardington's adaptation of Herman Melville's Moby Dick, or, The whale</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/361524">
+	<bflc:aap>Parker, Hershel, Moby-Dick as doubloon; essays and extracts, 1851-1970</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7426243">
+	<bflc:aap>Percival, Milton O. (Milton Oswin), 1883-1975. reading of Moby-Dick,</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/7543648">
+	<bflc:aap>Percival, Milton O. (Milton Oswin), 1883-1975. reading of Moby-Dick,</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/12896175">
+	<bflc:aap>Peretz, Eyal, 1968- Literature, disaster and the enigma of power : a reading of 'Moby-Dick'</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+    <bflc:subjectOf>
+      <bf:Work rdf:about="http://id.loc.gov/resources/works/17295839">
+	<bflc:aap>Philbrick, Nathaniel. Why read Moby-Dick?</bflc:aap>
+      </bf:Work>
+    </bflc:subjectOf>
+  </bf:Work>
+</rdf:RDF>
