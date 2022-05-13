@@ -1,17 +1,17 @@
-﻿id,value,header
-1,"יל בוקייטו די רומאנסאס : קאנטיקאס ריקוז''יד'אס, פארה נוב'יאס אי פאריד",string
-1,color,attribute
-1,red,value
-1,full row,comment
-2,ピザ,string
-2,cost,attribute
-2,cheap,value
-2,full row,comment
-3,hello,string
-3,,attribute
-3,,attribute
-3,blank cells,comment
-4,bateau à voile,string
-4,English,attribute
-4,sailboat,value
-4,full row,comment
+﻿id,value,header
+1,"יל בוקייטו די רומאנסאס : קאנטיקאס ריקוז''יד'אס, פארה נוב'יאס אי פאריד",string
+1,color,attribute
+1,red,value
+1,full row,comment
+2,ピザ,string
+2,cost,attribute
+2,cheap,value
+2,full row,comment
+3,hello,string
+3,,attribute
+3,,attribute
+3,blank cells,comment
+4,bateau à voile,string
+4,English,attribute
+4,sailboat,value
+4,full row,comment
