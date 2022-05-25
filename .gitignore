@@ -1,4 +1,4 @@
 .gitignore
 .ipynb_checkpoints
 scratch_*
-202205_csv/testdata/
+202205_csv/testdata/*
